@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
-    "uniqCompNum": 2,
+    "uniqCompNum": 3,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -53,15 +53,15 @@
             ".mbr-section-lead": {
               "color": "#ffffff",
               "text-align": "center",
-              "font-size": "30px"
+              "font-size": "24px"
             },
             ".btn": {
-              "font-size": "30px"
+              "font-size": "24px"
             },
             ".mbr-section-title P": {
               "color": "#f7da64",
               "text-align": "center",
-              "font-size": "72px"
+              "font-size": "60px"
             }
           },
           "_params": {
@@ -71,7 +71,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1357.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo2-1-1280x800.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
@@ -85,7 +85,7 @@
           },
           "title": "<p><a href=\"https://galeria16mb.000webhostapp.com/\"></a>art-park galeria</p>",
           "text": "WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - OBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - FOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - MUZEA W POLSCE I NA ŚWIECIE - ITP",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GALERIA</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GALERIA</a>  ",
           "_tags": [
             "Motywy"
           ],
