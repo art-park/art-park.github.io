@@ -4,7 +4,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -52,6 +51,12 @@ h6,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
+}
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
 }
 .btn-sm,
 .lead a,
@@ -413,22 +418,18 @@ h6,
   display: none;
 }
 #header5-0 .mbr-section-title {
-  color: #f7da64;
-  font-size: 30px;
-  font-family: 'Montserrat', sans-serif;
-}
-#header5-0 .mbr-section-lead {
-  color: #9c9a9a;
-}
-#header5-0 .btn {
-  font-size: 25px;
-}
-#header5-2 .mbr-section-title {
   color: #ffffff;
 }
-#header5-2 .mbr-section-lead {
-  color: #9c9a9a;
+#header5-0 .mbr-section-lead {
+  color: #000000;
+  text-align: center;
+  font-size: 30px;
 }
-#header5-2 .btn {
-  font-size: 25px;
+#header5-0 .btn {
+  font-size: 30px;
+}
+#header5-0 .mbr-section-title P {
+  color: #ffffff;
+  text-align: center;
+  font-size: 72px;
 }

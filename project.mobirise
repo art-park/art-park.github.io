@@ -15,7 +15,7 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
-    "uniqCompNum": 3,
+    "uniqCompNum": 2,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -48,26 +48,30 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f7da64",
-              "font-size": "30px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "color": "#ffffff"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#000000",
+              "text-align": "center",
+              "font-size": "30px"
             },
             ".btn": {
-              "font-size": "25px"
+              "font-size": "30px"
+            },
+            ".mbr-section-title P": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "72px"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false,
+            "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/liogo-1366x728.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1598x1920.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
@@ -79,55 +83,14 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "ART - PARK &nbsp; GALERIA",
+          "title": "<p><a href=\"https://galeria16mb.000webhostapp.com/\"></a>art-park galeria</p>",
           "text": "WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - OBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - FOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - MUZEA W POLSCE I NA ŚWIECIE - ITP",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GALERIA</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GALERIA</a>  ",
           "_tags": [
             "Motywy"
           ],
           "_name": "header5",
           "_anchor": "header5-0"
-        },
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a"
-            },
-            ".btn": {
-              "font-size": "25px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/liogo-1366x728.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "",
-          "text": "WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - OBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - FOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - MUZEA W POLSCE I NA ŚWIECIE - ITP",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn\"></span>GALERIA - ZAPRASZAMY</a> ",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-2"
         }
       ]
     },
