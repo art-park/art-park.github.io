@@ -78,7 +78,7 @@
           },
           "title": "<p><a href=\"https://galeria16mb.000webhostapp.com/\"></a>art-park galeria</p>",
           "text": "WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - OBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - FOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - MUZEA W POLSCE I NA ŚWIECIE - ITP",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GALERIA - ZAPRASZAMY</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn\"></span>GALERIA - ZAPRASZAMY</a> ",
           "_tags": [
             "Motywy"
           ],
