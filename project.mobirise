@@ -52,6 +52,9 @@
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
+            },
+            ".btn": {
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -73,9 +76,9 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "art-park galeria",
-          "text": "STRONA W BUDOWIE",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD NOW</a> ",
+          "title": "<p><a href=\"https://galeria16mb.000webhostapp.com/\"></a>art-park galeria</p>",
+          "text": "ZAPRASZAMY<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GALERIA</a> ",
           "_tags": [
             "Motywy"
           ],
