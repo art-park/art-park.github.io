@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-09_1226",
+    "name": "Site-12-09_1226-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -25,8 +25,13 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
-    "uniqCompNum": 1,
-    "versionPublish": "4.8.8"
+    "uniqCompNum": 2,
+    "versionPublish": "4.8.8",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
@@ -43,7 +48,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000"
+              "color": "#ffffff"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -53,13 +58,13 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "left",
+            "showArrow": false,
+            "contentAlign": "center",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-484x120.png",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -70,7 +75,7 @@
           },
           "title": "art-park galeria",
           "text": "STRONA W BUDOWIE",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD NOW</a> ",
           "_tags": [
             "Motywy"
           ],
