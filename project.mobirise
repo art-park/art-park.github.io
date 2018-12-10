@@ -59,7 +59,7 @@
               "font-size": "24px"
             },
             ".btn": {
-              "font-size": "24px"
+              "font-size": "14px"
             },
             ".mbr-section-title P": {
               "color": "#f7da64",
@@ -86,9 +86,9 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "<p><a href=\"https://galeria16mb.000webhostapp.com/\"></a>art-park galeria</p>",
-          "text": "WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - OBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - FOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - MUZEA W POLSCE I NA ŚWIECIE - ITP<br><br>ZAPRASZAMY",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MENU</a>   ",
+          "title": "<p><a href=\"https://galeria16mb.000webhostapp.com/\"></a></p><br><p>art-park galeria</p>",
+          "text": "<br>WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - OBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - FOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - MUZEA W POLSCE I NA ŚWIECIE - ITP<br>-----ZAPRASZAMY----",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">MENU</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">O GALERII</a>   ",
           "_tags": [
             "Motywy"
           ],
