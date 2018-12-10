@@ -225,12 +225,12 @@
             },
             ".mbr-section-title": {
               "font-size": "18px",
-              "color": "#c0a375"
+              "color": "#f7da64"
             }
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/logo2-2-1280x800.png",
             "parallax": true,
