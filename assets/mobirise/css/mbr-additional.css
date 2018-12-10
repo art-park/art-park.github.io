@@ -443,3 +443,11 @@ h6,
 #features3-5 H4 {
   color: #f7da64;
 }
+#social-buttons3-a .mbr-section-title,
+#social-buttons3-a .btn-social {
+  color: #fff;
+}
+#social-buttons3-a .mbr-section-title {
+  font-size: 18px;
+  color: #c0a375;
+}
