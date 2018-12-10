@@ -20,7 +20,10 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#2b2d33",
+        "#2d2e31"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
@@ -101,7 +104,7 @@
             "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": 4,
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -231,10 +234,10 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logo2-2-1280x800.png",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#000000",
             "overlay": false,
             "overlayColor": "#222",
