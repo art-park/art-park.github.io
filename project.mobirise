@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-09_1226-clone",
+    "name": "Site-12-09_1226-clone-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
-    "uniqCompNum": 3,
+    "uniqCompNum": 6,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -91,6 +91,131 @@
           ],
           "_name": "header5",
           "_anchor": "header5-0"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-5-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-6-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "GALERIA SZTUKI&nbsp;",
+          "subtitle1": "PRACE ARTYSTÓW PROFESJONALISTÓW<br>JAK RÓWNIEŻ ARTYSTÓW AMATORÓW",
+          "caption1": "OBRAZY RĘCZNIE MALOWANE - RZEŻBA - GRARIKA - RYSUNEK - FOTOGRAFIA - ITP",
+          "title2": "AKADEMIA SZTUKI",
+          "subtitle2": "DUŻO CIEKAWYCH PORAD I CIEKAWOSTEK<br>DLA POCZĄTKUJĄCYCH ARTYSTÓW ...",
+          "caption2": "NAUKA DLA POCZĄTKUJĄCYCH - MALARZY - RZEŻBIARZY - FOTOGRAFÓW - GARAFIKÓW - ITD",
+          "title3": "WIADOMOŚCI O SZTUCE",
+          "subtitle3": "CZYM JEST SZTUKA - KIM JEST ARTYSTA<br>- HISTORIA SZTUKI - ITD<br>",
+          "caption3": "PODSTAWOWE WIADOMOŚCI - SZTUKA WSPÓŁCZESNA - TECHNIKI - HISTORIA SZTUKI - ITP",
+          "title4": "MUZEA SZTUKI",
+          "subtitle4": "MUZEA I WYSTAWY W POLSCE&nbsp;<br>I NA ŚWIECIE",
+          "caption4": "WYSTAWY - MUZEA NARODOWE - ZNANI ARTYŚCI - ZNANE DZIEŁA<br>SZTUKI - ITP",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">W PRZEBUDOWIE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">W PRZEBUDOWIE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">W PRZEBUDOWIE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">W PRZEBUDOWIE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5",
+          "_styles": {
+            "P": {
+              "color": "#f7da64",
+              "text-align": "center"
+            },
+            "H5": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#f7da64"
+            }
+          }
         }
       ]
     },
