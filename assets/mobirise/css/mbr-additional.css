@@ -459,10 +459,13 @@ h6,
   color: #fff;
 }
 #social-buttons3-a .mbr-section-title {
-  font-size: 18px;
+  font-size: 16px;
   color: #f7da64;
+}
+#contacts3-7 .btn {
+  font-size: 14px;
 }
 #footer1-d P {
   font-size: 15px;
-  color: #cccccc;
+  color: #f7da64;
 }
