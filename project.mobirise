@@ -290,7 +290,7 @@
           "_tags": [
             "Motywy"
           ],
-          "text": "PODZIEL SIĘ TĄ STRONĄ -SHARE THIS PAGE!",
+          "text": "PODZIEL SIĘ TĄ STRONĄ&nbsp;",
           "_name": "social-buttons3",
           "_anchor": "social-buttons3-a"
         },
@@ -382,7 +382,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "wiadomość - napisz"
               }
             }
           },
@@ -393,7 +393,7 @@
           "_anchor": "contacts3-7",
           "_styles": {
             ".btn": {
-              "font-size": "14px"
+              "font-size": "16px"
             }
           }
         },
