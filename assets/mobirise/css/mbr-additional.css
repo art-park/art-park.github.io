@@ -530,3 +530,7 @@ h6,
   font-size: 15px;
   color: #f7da64;
 }
+#header3-i .mbr-section-title,
+#header3-i .mbr-section-subtitle {
+  text-align: center;
+}
