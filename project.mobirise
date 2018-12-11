@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
-    "uniqCompNum": 14,
+    "uniqCompNum": 17,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -74,7 +74,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo2-1-1280x800.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-10-1280x800.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
@@ -84,7 +84,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.1"
           },
           "title": "<p><a href=\"https://galeria16mb.000webhostapp.com/\"></a></p><br><p>art-park galeria</p>",
           "text": "<br>WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - OBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - FOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - MUZEA W POLSCE I NA ŚWIECIE - ITP<br>-----ZAPRASZAMY----",
