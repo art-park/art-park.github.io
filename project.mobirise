@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
-    "uniqCompNum": 11,
+    "uniqCompNum": 13,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -82,13 +82,13 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.6"
           },
           "title": "<p><a href=\"https://galeria16mb.000webhostapp.com/\"></a></p><br><p>art-park galeria</p>",
           "text": "<br>WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - OBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - FOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - MUZEA W POLSCE I NA ŚWIECIE - ITP<br>-----ZAPRASZAMY----",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">MENU</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">O GALERII</a>   ",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#features3-5\" data-toolbar=\"-mbrBtnMove\">MENU</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">O GALERII</a>   ",
           "_tags": [
             "Motywy"
           ],
@@ -221,6 +221,45 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64",
+              "font-size": "36px"
+            },
+            "DIV": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo2-2-1280x800.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "O GALERII",
+          "caption": "<p>Celem galerii internetowej ART-PARK jest przedstawienie wszystkiego lub prawie wszystkigo co jest związane ze sztuką w różnych okresach jej powstawania. Znajdziesz tu trochę historii sztuki, jak również galerie obrazów znanych i nie znanych artystów. Nie będzie tu podziału na profesjonalistów i amatorów - wszyscy co tworzą dzieła według własnej fantazji są artystami - SZTUKA JEST BEZ GARANIC. Dla wszystkich takich twórców jest tu galeria gdzie będą mogli umieścić powstałe prace i np. linki do swoich stron artystycznych.&nbsp;<span style=\"font-size: 1.07rem;\">W przedstawianej tu historii sztuki prezentuję znanch artystów i ich wspaniałe dzieła - warto zobaczyć ! ...te najdroższe dzieła sztuki nie zawsze są tymi najpopularniejszymi które więcej czy mniej znamy, a twórcy tych prac mają zazwyczaj ciekawą historię. Przedstawiam tu również muzea,wystawy w polsce i na świecie gdzie można oglądać dzieła takich artystów. Co też jest bardzo ważne na tej stronie - dla tych którzy chcą rozpocząć przygodę ze sztuką i czują potrzebę tworzenia napewno przydadzą się pewne porady i troszkę ciekawostek związanych z różnymi technikami w sztuce - malowanie obrazów - fotografia - grafika - rysunek - rzeźba itp. ZAPRASZAM NA STRONE AKADEMII SZTUKI j/w&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><br></p>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c"
+        },
+        {
           "_inherit": "social-buttons1",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -232,7 +271,7 @@
             }
           },
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logo2-2-1280x800.png",
