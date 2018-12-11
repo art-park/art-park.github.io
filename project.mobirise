@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
-    "uniqCompNum": 13,
+    "uniqCompNum": 14,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -391,6 +391,32 @@
           ],
           "_name": "contacts3",
           "_anchor": "contacts3-7"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "&nbsp;art-park.com.pl &nbsp; &nbsp;2019 &nbsp; adm. W.Górzny",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-d",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "color": "#cccccc"
+            }
+          }
         }
       ]
     },
