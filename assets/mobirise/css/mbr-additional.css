@@ -604,3 +604,117 @@ h6,
   font-size: 15px;
   color: #f7da64;
 }
+#menu-m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-m .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#menu-m .navbar-toggler {
+  color: #f7da64;
+}
+#menu-m .close-icon::before,
+#menu-m .close-icon::after {
+  background-color: #f7da64;
+}
+#menu-m .link,
+#menu-m .dropdown-item {
+  color: #f7da64;
+}
+#menu-m .link {
+  font-size: 0.8rem;
+}
+#menu-m .dropdown-item,
+#menu-m .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-m .link:hover,
+#menu-m .dropdown-item:hover,
+#menu-m .link:focus,
+#menu-m .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-m .link[aria-expanded="true"],
+#menu-m .dropdown-menu {
+  background: #000000;
+}
+#menu-m .nav-dropdown-sm .link:focus,
+#menu-m .nav-dropdown-sm .link:hover,
+#menu-m .nav-dropdown-sm .dropdown-item:focus,
+#menu-m .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-m .navbar,
+#menu-m .nav-dropdown-sm,
+#menu-m .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-m .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-m .bg-color.transparent .link {
+  color: #f7da64;
+  transition: none;
+}
+#menu-m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-m .bg-color.transparent.opened .link:hover,
+#menu-m .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-m .link[aria-expanded="true"],
+#menu-m .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header5-n .mbr-section-title {
+  color: #ffffff;
+}
+#header5-n .mbr-section-lead {
+  color: #ffffff;
+  text-align: center;
+  font-size: 24px;
+}
+#header5-n .btn {
+  font-size: 12px;
+}
+#header5-n .mbr-section-title P {
+  color: #f7da64;
+  text-align: center;
+  font-size: 60px;
+}
+#features3-o P {
+  color: #f7da64;
+  text-align: center;
+}
+#features3-o H5 {
+  color: #ffffff;
+}
+#features3-o H4 {
+  color: #f7da64;
+}
+#content5-p .mbr-section-title,
+#content5-p p {
+  color: #fff;
+}
+#content5-p .mbr-section-title {
+  color: #f7da64;
+  font-size: 36px;
+}
+#content5-p DIV {
+  color: #efefef;
+}
+#social-buttons3-q .mbr-section-title,
+#social-buttons3-q .btn-social {
+  color: #fff;
+}
+#social-buttons3-q .mbr-section-title {
+  font-size: 16px;
+  color: #f7da64;
+}
+#contacts3-r .btn {
+  font-size: 16px;
+}
+#footer1-s P {
+  font-size: 15px;
+  color: #f7da64;
+}
