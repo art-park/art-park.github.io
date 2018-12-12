@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-09_1226-clone-clone",
-    "currentPage": ".com.pl.html",
+    "currentPage": "index.com.pl.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -173,7 +173,7 @@
         }
       ]
     },
-    ".com.pl.html": {
+    "index.com.pl.html": {
       "settings": {
         "main": true,
         "title": "home",
