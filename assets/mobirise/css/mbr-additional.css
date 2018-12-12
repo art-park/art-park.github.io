@@ -422,6 +422,7 @@ h6,
 }
 #menu-h .navbar-caption {
   color: #ffffff;
+  font-size: 14px;
 }
 #menu-h .navbar-toggler {
   color: #f7da64;
@@ -435,11 +436,84 @@ h6,
   color: #f7da64;
 }
 #menu-h .link {
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 #menu-h .dropdown-item,
 #menu-h .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.866rem;
+}
+#menu-h .link:hover,
+#menu-h .dropdown-item:hover,
+#menu-h .link:focus,
+#menu-h .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-h .link[aria-expanded="true"],
+#menu-h .dropdown-menu {
+  background: #000000;
+}
+#menu-h .nav-dropdown-sm .link:focus,
+#menu-h .nav-dropdown-sm .link:hover,
+#menu-h .nav-dropdown-sm .dropdown-item:focus,
+#menu-h .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-h .navbar,
+#menu-h .nav-dropdown-sm,
+#menu-h .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-h .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-h .bg-color.transparent .link {
+  color: #f7da64;
+  transition: none;
+}
+#menu-h .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-h .bg-color.transparent.opened .link:hover,
+#menu-h .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-h .link[aria-expanded="true"],
+#menu-h .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#msg-box8-l .mbr-section-title,
+#msg-box8-l p {
+  color: #fff;
+}
+#msg-box8-l .lead {
+  color: #efefef;
+}
+#msg-box8-l .mbr-section-title {
+  color: #f7da64;
+  font-size: 36px;
+}
+#menu-h .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-h .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#menu-h .navbar-toggler {
+  color: #f7da64;
+}
+#menu-h .close-icon::before,
+#menu-h .close-icon::after {
+  background-color: #f7da64;
+}
+#menu-h .link,
+#menu-h .dropdown-item {
+  color: #f7da64;
+}
+#menu-h .link {
+  font-size: 0.8rem;
+}
+#menu-h .dropdown-item,
+#menu-h .nav-dropdown-sm .link {
+  font-size: 0.866rem;
 }
 #menu-h .link:hover,
 #menu-h .dropdown-item:hover,
@@ -529,8 +603,4 @@ h6,
 #footer1-d P {
   font-size: 15px;
   color: #f7da64;
-}
-#header3-i .mbr-section-title,
-#header3-i .mbr-section-subtitle {
-  text-align: center;
 }
