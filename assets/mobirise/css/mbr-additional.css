@@ -505,3 +505,20 @@ h6,
 #features3-3 H4 {
   color: #f7da64;
 }
+#content5-5 .mbr-section-title,
+#content5-5 p {
+  color: #fff;
+}
+#content5-5 DIV {
+  color: #c1c1c1;
+}
+#content5-5 .mbr-section-title {
+  color: #f7da64;
+  font-size: 36px;
+}
+#contacts1-6 STRONG {
+  color: #3e3939;
+}
+#contacts1-6 P {
+  text-align: center;
+}
