@@ -321,8 +321,8 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "5",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logo%20pod.o%20galerii-800x300.png",
             "parallax": false,
