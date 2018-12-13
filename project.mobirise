@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-09_1226-clone",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -415,8 +415,8 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
-        "title": "KONTAKT",
+        "meta_descr": "KONTAKT Z GALERIĄ ART-PARK",
+        "title": "ART-PARK/KONTAKT",
         "order": 1
       },
       "components": [
