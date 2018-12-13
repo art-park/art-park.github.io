@@ -385,7 +385,8 @@
               "color": "#3e3939"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#a38f84"
             }
           }
         },
