@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-09_1226-clone",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -47,7 +47,7 @@
       "settings": {
         "main": true,
         "title": "ART-PARK GALERIA",
-        "meta_descr": "WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - \nOBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - \nFOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - \nMUZEA W POLSCE I NA ŚWIECIE - HISTORIA SZTUKI - ITP",
+        "meta_descr": "WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - \nOBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - \nFOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - \nMUZEA W POLSCE I NA ŚWIECIE - HISTORIA SZTUKI - ITP  adm. Wiesław Górzny  art-park",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
