@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-09_1226-clone",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -38,8 +38,8 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "gdpr": "",
+    "cookiesAlert": "W celu poprawy jakości naszych usług, stosujemy na tej stronie pliki cookies. Więcej szczegółów na ten temat znajdziesz na stronie <a href=’polityka.html’>Polityka Prywatności</a>.",
+    "gdpr": "Aby kontynuować, musisz zgodzić się z warunkami naszego <a href=’regulamin.html’>Regulaminu</a> oraz <a href=’polityka.html’>Polityką Prywatności</a>.",
     "sitemapSwitcher": "on"
   },
   "pages": {
