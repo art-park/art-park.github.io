@@ -170,7 +170,7 @@
             },
             "overlay": false,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0"
           },
           "title": "<p><a href=\"https://galeria16mb.000webhostapp.com/\"></a>art-park galeria</p>",
           "text": "<br><br>WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - <br>OBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - <br>FOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - <br>MUZEA W POLSCE I NA ŚWIECIE - ITP<br><br>ZAPRASZAMY",
@@ -294,14 +294,14 @@
           "_name": "features3",
           "_styles": {
             "P": {
-              "color": "#f7da64",
+              "color": "#2969b0",
               "text-align": "center"
             },
             "H5": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             "H4": {
-              "color": "#f7da64"
+              "color": "#cf4615"
             }
           },
           "_anchor": "features3-3"
@@ -315,7 +315,7 @@
               "color": "#c1c1c1"
             },
             ".mbr-section-title": {
-              "color": "#f7da64",
+              "color": "#cf4615",
               "font-size": "36px"
             }
           },
@@ -338,7 +338,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "o galerii",
-          "caption": "Celem galerii internetowej ART-PARK jest przedstawienie wszystkiego lub prawie wszystkigo co jest związane ze sztuką w różnych okresach jej powstawania. Znajdziesz tu trochę historii sztuki, jak również galerie obrazów znanych i nie znanych artystów. Nie będzie tu podziału na profesjonalistów i amatorów - wszyscy co tworzą dzieła według własnej fantazji są artystami - SZTUKA JEST BEZ GARANIC. Dla wszystkich takich twórców jest tu galeria gdzie będą mogli umieścić powstałe prace i np. linki do swoich stron artystycznych. W przedstawianej tu historii sztuki prezentuję znanch artystów i ich wspaniałe dzieła - warto zobaczyć ! ...te najdroższe dzieła sztuki nie zawsze są tymi najpopularniejszymi które więcej czy mniej znamy, a twórcy tych prac mają zazwyczaj ciekawą historię. Przedstawiam tu również muzea,wystawy w polsce i na świecie gdzie można oglądać dzieła takich artystów. Co też jest bardzo ważne na tej stronie - dla tych którzy chcą rozpocząć przygodę ze sztuką i czują potrzebę tworzenia napewno przydadzą się pewne porady i troszkę ciekawostek związanych z różnymi technikami w sztuce - malowanie obrazów - fotografia - grafika - rysunek - rzeźba itp. ZAPRASZAM NA STRONE AKADEMII SZTUKI j/w      CDN\n<div>\n</div><div>www.art-park.com.pl</div>",
+          "caption": "Celem galerii internetowej ART-PARK jest przedstawienie wszystkiego lub prawie wszystkigo co jest związane ze sztuką w różnych okresach jej powstawania. Znajdziesz tu trochę historii sztuki, jak również galerie obrazów znanych i nie znanych artystów. Nie będzie tu podziału na profesjonalistów i amatorów - wszyscy co tworzą dzieła według własnej fantazji są artystami - <b>SZTUKA JEST BEZ GARANIC</b><i>.</i> Dla wszystkich takich twórców jest tu galeria gdzie będą mogli umieścić powstałe prace i np. linki do swoich stron artystycznych. W przedstawianej tu historii sztuki prezentuję znanch artystów i ich wspaniałe dzieła - warto zobaczyć ! ...te najdroższe dzieła sztuki nie zawsze są tymi najpopularniejszymi które więcej czy mniej znamy, a twórcy tych prac mają zazwyczaj ciekawą historię. Przedstawiam tu również muzea,wystawy w polsce i na świecie gdzie można oglądać dzieła takich artystów. Co też jest bardzo ważne na tej stronie - dla tych którzy chcą rozpocząć przygodę ze sztuką i czują potrzebę tworzenia napewno przydadzą się pewne porady i troszkę ciekawostek związanych z różnymi technikami w sztuce - malowanie obrazów - fotografia - grafika - rysunek - rzeźba itp. ZAPRASZAM NA STRONE AKADEMII SZTUKI j/w      CDN\n<div>\n</div><div>www.art-park.com.pl</div>",
           "_tags": [
             "Motywy"
           ],
@@ -375,7 +375,7 @@
           },
           "text1": "<br><br>Poznań - Poland",
           "text2": "<br><br>\nEmail: artpark.galeria@gmail.com<br>\nPhone: +48 515951155<br>",
-          "text3": "<br><br><a href=\"page1.html\">wyślij wiadomość</a>",
+          "text3": "<b><br><br><a href=\"page1.html\">wyślij wiadomość</a></b>",
           "_tags": [
             "Motywy"
           ],
