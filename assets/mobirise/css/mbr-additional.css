@@ -422,6 +422,7 @@ h6,
 }
 #menu-4 .navbar-caption {
   color: #ffffff;
+  font-size: 14px;
 }
 #menu-4 .navbar-toggler {
   color: #f7da64;
@@ -435,11 +436,11 @@ h6,
   color: #f7da64;
 }
 #menu-4 .link {
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 #menu-4 .dropdown-item,
 #menu-4 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.866rem;
 }
 #menu-4 .link:hover,
 #menu-4 .dropdown-item:hover,
@@ -476,7 +477,7 @@ h6,
 }
 #menu-4 .link[aria-expanded="true"],
 #menu-4 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375 !important;
+  color: #c0a375!important;
 }
 #header5-0 .mbr-section-title {
   color: #ffffff;

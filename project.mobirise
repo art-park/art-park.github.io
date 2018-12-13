@@ -50,7 +50,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#f7da64"
@@ -62,10 +63,10 @@
               "color": "#f7da64"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -90,18 +91,18 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             }
           },
           "_params": {
-            "logo": false,
-            "showBrand": false,
+            "logo": true,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#f7da64",
             "fontHoverColor": "@primaryColor"
@@ -110,10 +111,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo5-144x113.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -121,7 +123,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">www.art-park.com.pl</a>",
           "_tags": [
             "Motywy"
           ],
@@ -155,7 +157,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo2-1-1280x800.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-102-1200x660.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
