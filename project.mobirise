@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#cf4615",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -21,7 +21,8 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#3e3939"
+        "#3e3939",
+        "#cf4615"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -56,13 +57,13 @@
               "font-size": "14px"
             },
             ".navbar-toggler": {
-              "color": "#f7da64"
+              "color": "#3e3939"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#f7da64"
+              "background-color": "#3e3939"
             },
             ".link, .dropdown-item": {
-              "color": "#f7da64"
+              "color": "#3e3939"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -83,7 +84,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#f7da64",
+              "color": "#3e3939",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -106,7 +107,7 @@
             "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#f7da64",
+            "fontColor": "#3e3939",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">MENU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">O GALERII</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
@@ -139,16 +140,16 @@
               "color": "#ffffff"
             },
             ".mbr-section-lead": {
-              "color": "#ffffff",
-              "text-align": "center",
+              "color": "#2969b0",
+              "text-align": "left",
               "font-size": "24px"
             },
             ".btn": {
-              "font-size": "24px"
+              "font-size": "19px"
             },
             ".mbr-section-title P": {
-              "color": "#f7da64",
-              "text-align": "center",
+              "color": "#cf4615",
+              "text-align": "left",
               "font-size": "60px"
             }
           },
@@ -159,7 +160,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-102-1200x660.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-pod.o-galerii-2-1200x580.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
@@ -173,7 +174,7 @@
           },
           "title": "<p><a href=\"https://galeria16mb.000webhostapp.com/\"></a>art-park galeria</p>",
           "text": "WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - OBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - FOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - MUZEA W POLSCE I NA ŚWIECIE - ITP<br><br>ZAPRASZAMY",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MENU</a>   ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MENU</a>   ",
           "_tags": [
             "Motywy"
           ],
