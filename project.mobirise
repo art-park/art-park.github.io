@@ -148,15 +148,15 @@
             ".mbr-section-lead": {
               "color": "#2969b0",
               "text-align": "left",
-              "font-size": "20px"
+              "font-size": "16px"
             },
             ".btn": {
-              "font-size": "19px"
+              "font-size": "14px"
             },
             ".mbr-section-title P": {
               "color": "#cf4615",
               "text-align": "left",
-              "font-size": "48px"
+              "font-size": "36px"
             }
           },
           "_params": {
