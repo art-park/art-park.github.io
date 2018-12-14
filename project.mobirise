@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-09_1226-clone",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
-    "uniqCompNum": 23,
+    "uniqCompNum": 29,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -194,8 +194,8 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -276,7 +276,7 @@
           "title2": "AKADEMIA SZTUKI",
           "subtitle2": "DUŻO CIEKAWYCH PORAD I CIEKAWOSTEK<br>DLA POCZĄTKUJĄCYCH ARTYSTÓW ...",
           "caption2": "NAUKA DLA POCZĄTKUJĄCYCH - MALARZY - RZEŻBIARZY - FOTOGRAFÓW - GARAFIKÓW - ITD",
-          "title3": "WIADOMOŚCI O SZTUCE",
+          "title3": "INFORMACJE O SZTUCE",
           "subtitle3": "CZYM JEST SZTUKA - KIM JEST ARTYSTA<br>- HISTORIA SZTUKI - ITD<br>",
           "caption3": "PODSTAWOWE WIADOMOŚCI - SZTUKA WSPÓŁCZESNA - TECHNIKI - HISTORIA SZTUKI - ITP",
           "title4": "MUZEA SZTUKI",
@@ -311,6 +311,92 @@
             }
           },
           "_anchor": "features3-3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#cf4615",
+              "font-size": "20px"
+            },
+            "P": {
+              "font-size": "14px"
+            },
+            "DIV": {
+              "color": "#c1c1c1",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "czym jest sztuka",
+          "caption": "Trudno odpowiedzieć na to pytanie, gdyż każda osoba odbiera sztukę inaczej. Dla jednych dany obraz będzie kunsztownym dziełem abstrakcyjnym, a drudzy uznają, iż jest to bezwartościowy bohomaz. Dlatego też sztuki nie powinno się wartościować na lepszą i gorszą, ponieważ każdy musi sam ocenić, czy dana praca go porusza, gdyż poruszać powinna. W każdym dziele artysta stara się przekazać fragment swej duszy. Jeżeli trafia on do znacznej liczby odbiorców, mówi się, że ten artystyczny płód jest wspaniały, co nie do końca jest prawdą, gdyż nie wszystkim się podoba....<b>WIĘCEJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>&nbsp; tekst : ściąga.pl",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#cf4615",
+              "font-size": "20px"
+            },
+            "P": {
+              "font-size": "14px"
+            },
+            "DIV": {
+              "color": "#c1c1c1",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "kim jest artysta",
+          "caption": "Pozornie odpowiedź na to pytanie jest prosta. Sztuka przecież otacza nas z każdej strony. Codziennie mamy do czynienia z książkami, oglądamy obrazy i rzeźby. Te rzeczy tworzą artyści. Jak my postrzegamy artystę? Dla nas jest to zwykle człowiek utalentowany, natchniony, którego spojrzenie na rzeczywistość jest różne od naszego - spojrzenia zwykłego, szarego człowieka. Artysta patrzy na świat przez pryzmat emocji, potem próbuje je zawrzeć w swoim dziele: obrazie, filmie, fotografii, wierszu, czy kompozycji. Bardzo często to, w jaki sposób twórca postrzega świat, jest uzależnione od światopoglądu epoki, w której tworzy....<b>WIĘCEJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b>tekst : ściąga.pl",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-s"
         },
         {
           "_styles": {
@@ -938,6 +1024,9 @@
             },
             ".mbr-section-title": {
               "color": "#cf4615"
+            },
+            ".lead": {
+              "color": "#c1c1c1"
             }
           },
           "_params": {
@@ -960,13 +1049,26 @@
             "overlayOpacity": 0.5
           },
           "title": "wiadomości o sztuce",
-          "text": "",
+          "text": "<p>...próbujemy sobie odpowiedzieć na pytanie : czym jest sztuka ? kim jest arty<span style=\"font-size: 1.07rem;\">sta ?</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Motywy"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-m"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<blockquote>CZYM JEST SZTUKA ? Trudno odpowiedzieć na to pytanie, gdyż każda osoba odbiera sztukę inaczej. Dla jednych dany obraz będzie kunsztownym dziełem abstrakcyjnym, a drudzy uznają, iż jest to bezwartościowy bohomaz. Dlatego też sztuki nie powinno się wartościować na lepszą i gorszą, ponieważ każdy musi sam ocenić, czy dana praca go porusza, gdyż poruszać powinna. W każdym dziele artysta stara się przekazać fragment swej duszy. Jeżeli trafia on do znacznej liczby odbiorców, mówi się, że ten artystyczny płód jest wspaniały, co nie do końca jest prawdą, gdyż nie wszystkim się podoba.</blockquote>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-o"
         },
         {
           "_params": {

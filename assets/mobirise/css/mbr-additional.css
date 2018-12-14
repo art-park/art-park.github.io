@@ -505,6 +505,36 @@ h6,
 #features3-3 H4 {
   color: #cf4615;
 }
+#content5-r .mbr-section-title,
+#content5-r p {
+  color: #fff;
+}
+#content5-r .mbr-section-title {
+  color: #cf4615;
+  font-size: 20px;
+}
+#content5-r P {
+  font-size: 14px;
+}
+#content5-r DIV {
+  color: #c1c1c1;
+  font-size: 14px;
+}
+#content5-s .mbr-section-title,
+#content5-s p {
+  color: #fff;
+}
+#content5-s .mbr-section-title {
+  color: #cf4615;
+  font-size: 20px;
+}
+#content5-s P {
+  font-size: 14px;
+}
+#content5-s DIV {
+  color: #c1c1c1;
+  font-size: 14px;
+}
 #content5-5 .mbr-section-title,
 #content5-5 p {
   color: #fff;
@@ -735,6 +765,9 @@ h6,
 }
 #msg-box8-m .mbr-section-title {
   color: #cf4615;
+}
+#msg-box8-m .lead {
+  color: #c1c1c1;
 }
 #contacts1-g STRONG {
   color: #3e3939;
