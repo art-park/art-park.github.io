@@ -301,13 +301,16 @@
           "_styles": {
             "P": {
               "color": "#2969b0",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "12px"
             },
             "H5": {
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "font-size": "12px"
             },
             "H4": {
-              "color": "#cf4615"
+              "color": "#cf4615",
+              "font-size": "16px"
             }
           },
           "_anchor": "features3-3"
@@ -319,7 +322,7 @@
             },
             ".mbr-section-title": {
               "color": "#cf4615",
-              "font-size": "20px"
+              "font-size": "16px"
             },
             "P": {
               "font-size": "14px"
@@ -362,7 +365,7 @@
             },
             ".mbr-section-title": {
               "color": "#cf4615",
-              "font-size": "20px"
+              "font-size": "16px"
             },
             "P": {
               "font-size": "14px"
@@ -404,11 +407,12 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "font-size": "14px"
             },
             ".mbr-section-title": {
               "color": "#cf4615",
-              "font-size": "36px"
+              "font-size": "16px"
             }
           },
           "_params": {

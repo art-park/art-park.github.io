@@ -498,12 +498,15 @@ h6,
 #features3-3 P {
   color: #2969b0;
   text-align: center;
+  font-size: 12px;
 }
 #features3-3 H5 {
   color: #c1c1c1;
+  font-size: 12px;
 }
 #features3-3 H4 {
   color: #cf4615;
+  font-size: 16px;
 }
 #content5-r .mbr-section-title,
 #content5-r p {
@@ -511,7 +514,7 @@ h6,
 }
 #content5-r .mbr-section-title {
   color: #cf4615;
-  font-size: 20px;
+  font-size: 16px;
 }
 #content5-r P {
   font-size: 14px;
@@ -526,7 +529,7 @@ h6,
 }
 #content5-s .mbr-section-title {
   color: #cf4615;
-  font-size: 20px;
+  font-size: 16px;
 }
 #content5-s P {
   font-size: 14px;
@@ -541,10 +544,11 @@ h6,
 }
 #content5-5 DIV {
   color: #c1c1c1;
+  font-size: 14px;
 }
 #content5-5 .mbr-section-title {
   color: #cf4615;
-  font-size: 36px;
+  font-size: 16px;
 }
 #contacts1-6 STRONG {
   color: #3e3939;
