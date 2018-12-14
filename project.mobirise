@@ -178,7 +178,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0"
           },
-          "title": "<p><a href=\"https://galeria16mb.000webhostapp.com/\"></a>art-park galeria</p>",
+          "title": "<p><a href=\"index.html\">art-park galeria</a></p>",
           "text": "<br><br><b>WSZYSTKO O SZTUCE</b> - GALERIA RĘKODZIEŁA ART - <br>OBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - <br>FOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - <br>MUZEA W POLSCE I NA ŚWIECIE - HISTORIA SZTUKI - ITP<br><br><b>ZAPRASZAMY</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://galeria16mb.000webhostapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MENU</a>   ",
           "_tags": [
@@ -276,7 +276,7 @@
           "title2": "AKADEMIA SZTUKI",
           "subtitle2": "DUŻO CIEKAWYCH PORAD I CIEKAWOSTEK<br>DLA POCZĄTKUJĄCYCH ARTYSTÓW ...",
           "caption2": "NAUKA DLA POCZĄTKUJĄCYCH - MALARZY - RZEŻBIARZY - FOTOGRAFÓW - GARAFIKÓW - ITD",
-          "title3": "INFORMACJE O SZTUCE",
+          "title3": "<a href=\"page3.html\" target=\"_blank\">INFORMACJE O SZTUCE</a>",
           "subtitle3": "CZYM JEST SZTUKA - KIM JEST ARTYSTA<br>- HISTORIA SZTUKI - ITD<br>",
           "caption3": "PODSTAWOWE WIADOMOŚCI - SZTUKA WSPÓŁCZESNA - TECHNIKI - HISTORIA SZTUKI - ITP",
           "title4": "MUZEA SZTUKI",
@@ -351,7 +351,7 @@
             "overlayOpacity": 0.5
           },
           "title": "czym jest sztuka",
-          "caption": "Trudno odpowiedzieć na to pytanie, gdyż każda osoba odbiera sztukę inaczej. Dla jednych dany obraz będzie kunsztownym dziełem abstrakcyjnym, a drudzy uznają, iż jest to bezwartościowy bohomaz. Dlatego też sztuki nie powinno się wartościować na lepszą i gorszą, ponieważ każdy musi sam ocenić, czy dana praca go porusza, gdyż poruszać powinna. W każdym dziele artysta stara się przekazać fragment swej duszy. Jeżeli trafia on do znacznej liczby odbiorców, mówi się, że ten artystyczny płód jest wspaniały, co nie do końca jest prawdą, gdyż nie wszystkim się podoba....<b>WIĘCEJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>&nbsp; tekst : ściąga.pl",
+          "caption": "Trudno odpowiedzieć na to pytanie, gdyż każda osoba odbiera sztukę inaczej. Dla jednych dany obraz będzie kunsztownym dziełem abstrakcyjnym, a drudzy uznają, iż jest to bezwartościowy bohomaz. Dlatego też sztuki nie powinno się wartościować na lepszą i gorszą, ponieważ każdy musi sam ocenić, czy dana praca go porusza, gdyż poruszać powinna. W każdym dziele artysta stara się przekazać fragment swej duszy. Jeżeli trafia on do znacznej liczby odbiorców, mówi się, że ten artystyczny płód jest wspaniały, co nie do końca jest prawdą, gdyż nie wszystkim się podoba....<b>WIĘCEJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>&nbsp; <a href=\"http://sciaga.pl\" target=\"_blank\">tekst : ściąga.pl</a>",
           "_tags": [
             "Motywy"
           ],
@@ -394,7 +394,7 @@
             "overlayOpacity": 0.5
           },
           "title": "kim jest artysta",
-          "caption": "Pozornie odpowiedź na to pytanie jest prosta. Sztuka przecież otacza nas z każdej strony. Codziennie mamy do czynienia z książkami, oglądamy obrazy i rzeźby. Te rzeczy tworzą artyści. Jak my postrzegamy artystę? Dla nas jest to zwykle człowiek utalentowany, natchniony, którego spojrzenie na rzeczywistość jest różne od naszego - spojrzenia zwykłego, szarego człowieka. Artysta patrzy na świat przez pryzmat emocji, potem próbuje je zawrzeć w swoim dziele: obrazie, filmie, fotografii, wierszu, czy kompozycji. Bardzo często to, w jaki sposób twórca postrzega świat, jest uzależnione od światopoglądu epoki, w której tworzy....<b>WIĘCEJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b>tekst : ściąga.pl",
+          "caption": "Pozornie odpowiedź na to pytanie jest prosta. Sztuka przecież otacza nas z każdej strony. Codziennie mamy do czynienia z książkami, oglądamy obrazy i rzeźby. Te rzeczy tworzą artyści. Jak my postrzegamy artystę? Dla nas jest to zwykle człowiek utalentowany, natchniony, którego spojrzenie na rzeczywistość jest różne od naszego - spojrzenia zwykłego, szarego człowieka. Artysta patrzy na świat przez pryzmat emocji, potem próbuje je zawrzeć w swoim dziele: obrazie, filmie, fotografii, wierszu, czy kompozycji. Bardzo często to, w jaki sposób twórca postrzega świat, jest uzależnione od światopoglądu epoki, w której tworzy....<b>WIĘCEJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"http://sciaga.pl\" target=\"_blank\">&nbsp;</a></b><a href=\"http://sciaga.pl\" target=\"_blank\">tekst : ściąga.pl</a>",
           "_tags": [
             "Motywy"
           ],
