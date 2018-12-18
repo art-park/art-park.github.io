@@ -1884,15 +1884,18 @@ body {
 .cid-rcANjImLlX {
   padding-top: 45px;
   padding-bottom: 0px;
-  background-color: #131212;
+  background-color: #000000;
 }
 .cid-rcANjImLlX .mbr-section-subtitle {
+  color: #ef6512;
+}
+.cid-rcANjImLlX H2 {
   color: #ef6512;
 }
 .cid-rcATTYMi8k {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #131212;
+  background-color: #000000;
 }
 .cid-rcATTYMi8k .card-img {
   background-color: #fff;
@@ -1937,7 +1940,7 @@ body {
 .cid-rcATqK5NUb {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #131212;
+  background-color: #000000;
 }
 .cid-rctRKJWrzX {
   padding-top: 15px;
