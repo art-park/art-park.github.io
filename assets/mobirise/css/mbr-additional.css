@@ -1820,8 +1820,19 @@ body {
     width: 100% !important;
   }
 }
+.cid-rcAlMB5OeL {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-rcAlMB5OeL .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rcAlMB5OeL .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-rckB0qgijv {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #000000;
 }
@@ -1862,7 +1873,7 @@ body {
   }
 }
 .cid-rckB0qgijv .card-title {
-  color: #0f7699;
+  color: #767676;
   text-align: center;
 }
 .cid-rctRKJWrzX {
@@ -1956,6 +1967,11 @@ body {
 }
 .cid-rcuyY8XhI9 H2 {
   color: #0f7699;
+}
+.cid-rcziVKSacS {
+  padding-top: 90px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/mbr-2-1920x600.jpg");
 }
 .cid-rcvpMMJIFk {
   padding-top: 30px;
