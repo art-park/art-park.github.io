@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-15_2042",
-    "currentPage": "fotografia.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -645,7 +645,7 @@
               }
             },
             ".section-text I": {
-              "color": "#ef6512"
+              "color": "#b1a374"
             },
             ".section-text B": {
               "color": "#ef6512"
