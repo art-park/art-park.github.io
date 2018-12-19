@@ -1802,8 +1802,8 @@ body {
   background-color: #000000;
 }
 .cid-rctNQFRweQ .line {
-  background-color: #ef6512;
-  color: #ef6512;
+  background-color: #b1a374;
+  color: #b1a374;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1880,8 +1880,8 @@ body {
   background-color: #000000;
 }
 .cid-rcC816rFxm .line {
-  background-color: #ef6512;
-  color: #ef6512;
+  background-color: #b1a374;
+  color: #b1a374;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1900,6 +1900,12 @@ body {
   }
 }
 .cid-rcC816rFxm .section-text I {
+  color: #ef6512;
+}
+.cid-rcC816rFxm .section-text B {
+  color: #ef6512;
+}
+.cid-rcC816rFxm .section-text FONT {
   color: #ef6512;
 }
 .cid-rcATTYMi8k {
