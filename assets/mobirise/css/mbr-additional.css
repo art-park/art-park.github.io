@@ -2023,7 +2023,7 @@ body {
 .cid-rcunlEbIgI {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1920x600.jpg");
+  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
 }
 .cid-rcunlEbIgI H2 {
   color: #ef6512;
@@ -2129,6 +2129,9 @@ body {
     padding: 15px;
     -webkit-flex: 0 0 20%;
   }
+}
+.cid-rcLu6qpDx9 .card-title {
+  text-align: center;
 }
 .cid-rcvpMMJIFk {
   padding-top: 30px;
