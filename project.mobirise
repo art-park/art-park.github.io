@@ -747,7 +747,7 @@
             ".section-text": {
               "padding": "2rem 0",
               "text-align": "left",
-              "color": "#c1c1c1"
+              "color": "#b1a374"
             },
             ".inner-container": {
               "margin": "0 auto"
@@ -761,7 +761,7 @@
               "color": "#ef6512"
             },
             ".section-text B": {
-              "color": "#685a2d"
+              "color": "#b1a374"
             }
           },
           "_name": "content10",
@@ -787,7 +787,7 @@
             },
             ".section-text": {
               "padding": "2rem 0",
-              "color": "#c1c1c1",
+              "color": "#b1a374",
               "text-align": "left"
             },
             ".inner-container": {
@@ -802,7 +802,7 @@
               "color": "#767676"
             },
             ".section-text B": {
-              "color": "#685a2d"
+              "color": "#b1a374"
             }
           },
           "_name": "content10",
@@ -831,7 +831,7 @@
               "color": "#b1a374"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#c1c1c1"
+              "color": "#b1a374"
             }
           },
           "_name": "info3",
