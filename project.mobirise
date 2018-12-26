@@ -6,12 +6,12 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#e4d295",
+        "primaryColor": "#ef6512",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
         "warningColor": "#879A9F",
-        "dangerColor": "#e4d295",
+        "dangerColor": "#B1A374",
         "mainFont": "Rubik",
         "display1Font": "Rubik",
         "display1Size": 4.25,
@@ -28,19 +28,18 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#dace0e",
-        "#3c351f",
-        "#6f633d",
-        "#554e36",
-        "#726847",
         "#ef6512",
-        "#ff1300"
+        "#ff1300",
+        "#050505",
+        "#000000",
+        "#131212",
+        "#122a16"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
-    "uniqCompNum": 71,
+    "uniqCompNum": 67,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "siteUrl": "http://art-park.com.pl",
@@ -728,7 +727,7 @@
             }
           },
           "_name": "content10",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Góra\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Dół\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Szerokość\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Długość linii\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"color\" title=\"Kolor linii\" name=\"lineColor\" value=\"#b1a374\">\n        <input type=\"color\" title=\"Kolor ta\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text><b>CZYM JEST SZTUKA</b> - Trudno odpowiedzieć na to pytanie, gdyż każda osoba odbiera sztukę inaczej. Dla jednych dany obraz będzie kunsztownym dziełem abstrakcyjnym, a drudzy uznają, iż jest to bezwartościowy bohomaz. Dlatego też sztuki nie powinno się wartościować na lepszą i gorszą, ponieważ każdy musi sam ocenić, czy dana praca go porusza, gdyż poruszać powinna. W każdym dziele artysta stara się przekazać fragment swej duszy. Jeżeli trafia on do znacznej liczby odbiorców, mówi się, że ten artystyczny płód jest wspaniały, co nie do końca jest prawdą, gdyż nie wszystkim się podoba &nbsp;....WIĘCEJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i><a href=\"http://sciaga.pl\" target=\"_blank\" class=\"text-info\">tekst : ściąga.pl</a></i></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Góra\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Dół\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Szerokość\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Długość linii\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"color\" title=\"Kolor linii\" name=\"lineColor\" value=\"#b1a374\">\n        <input type=\"color\" title=\"Kolor ta\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text><b>CZYM JEST SZTUKA</b> - Nie jest łatwo odpowiedzieć na to pytanie, gdyż każdy z nas odbiera sztukę inaczej. Dla jednych dany obraz będzie pięknym dziełem abstrakcyjnym, a dla drugich będzie to bezwartościowy bohomaz. Dlatego też sztuki nie powinno się wartościować na lepszą i gorszą, ponieważ każdy musi sam ocenić, czy dana praca go porusza, gdyż poruszać powinna. W każdym dziele artysta stara się przekazać fragment swej duszy. Jeżeli trafia on do znacznej liczby odbiorców, mówi się, że ten artystyczny płód jest wspaniały, co nie do końca jest prawdą, gdyż nie wszystkim się podoba &nbsp;....WIĘCEJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i><a href=\"http://sciaga.pl\" target=\"_blank\" class=\"text-info\">tekst : ściąga.pl</a></i></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_cid": "rctRKJWrzX",
           "_anchor": "content10-9",
           "_protectedParams": [],
