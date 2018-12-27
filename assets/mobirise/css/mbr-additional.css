@@ -1982,54 +1982,6 @@ body {
 .cid-rcunlEbIgI .mbr-section-btn {
   color: #b1a374;
 }
-.cid-rcLvk1IVWe {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #000000;
-}
-.cid-rcLvk1IVWe .socicon-bg-facebook {
-  background: #3e5b98;
-  color: #ffffff;
-}
-.cid-rcLvk1IVWe .socicon-bg-twitter {
-  background: #4da7de;
-  color: #ffffff;
-}
-.cid-rcLvk1IVWe .socicon-bg-googleplus {
-  background: #dd4b39;
-  color: #ffffff;
-}
-.cid-rcLvk1IVWe .socicon-bg-vkontakte {
-  background: #5a7fa6;
-  color: #ffffff;
-}
-.cid-rcLvk1IVWe .socicon-bg-odnoklassniki {
-  background: #f48420;
-  color: #ffffff;
-}
-.cid-rcLvk1IVWe .socicon-bg-pinterest {
-  background: #c92619;
-  color: #ffffff;
-}
-.cid-rcLvk1IVWe .socicon-bg-mail {
-  background: #134785;
-  color: #ffffff;
-}
-.cid-rcLvk1IVWe .btn-social {
-  border: none !important;
-}
-.cid-rcLvk1IVWe [class^="socicon-"]:before,
-.cid-rcLvk1IVWe [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-@media (max-width: 767px) {
-  .cid-rcLvk1IVWe .btn {
-    font-size: 20px !important;
-  }
-}
-.cid-rcLvk1IVWe .mbr-section-title {
-  color: #685a2d;
-}
 .cid-rcLtpXp5ob {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -2082,6 +2034,60 @@ body {
 }
 .cid-rcLu6qpDx9 .card-title {
   text-align: center;
+  color: #b1a374;
+}
+.cid-rdpWvOd2Q4 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-rcLvk1IVWe {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #000000;
+}
+.cid-rcLvk1IVWe .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-rcLvk1IVWe .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-rcLvk1IVWe .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-rcLvk1IVWe .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-rcLvk1IVWe .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-rcLvk1IVWe .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-rcLvk1IVWe .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-rcLvk1IVWe .btn-social {
+  border: none !important;
+}
+.cid-rcLvk1IVWe [class^="socicon-"]:before,
+.cid-rcLvk1IVWe [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-rcLvk1IVWe .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-rcLvk1IVWe .mbr-section-title {
+  color: #685a2d;
 }
 .cid-rcvpMMJIFk {
   padding-top: 30px;
