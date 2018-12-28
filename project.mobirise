@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-15_2042",
-    "currentPage": "fotografiagaleria.html",
+    "currentPage": "fotografia.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2587,7 +2587,7 @@
         }
       ]
     },
-    "fotografiagaleria.html": {
+    "fotografia.html": {
       "settings": {
         "meta_descr": "galeria fotografii art-park ",
         "title": "fotografia - galeria",
