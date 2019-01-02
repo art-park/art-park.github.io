@@ -3594,6 +3594,39 @@ body {
 .cid-rdDP80qP4b .mbr-section-btn {
   color: #ffffff;
 }
+.cid-re0aDRlwQ4 {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/lens-1223583-1920-1-1920x638.jpg");
+}
+.cid-re0aDRlwQ4 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-re0aDRlwQ4 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-re0aDRlwQ4 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-re0aDRlwQ4 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-re0aDRlwQ4 H1 {
+  color: #b1a374;
+}
+.cid-re0aDRlwQ4 .mbr-text,
+.cid-re0aDRlwQ4 .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-rcS4qQs3WQ {
   padding-top: 15px;
   padding-bottom: 15px;
