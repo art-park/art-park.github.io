@@ -1993,6 +1993,27 @@ body {
 .cid-rcLtpXp5ob .mbr-section-subtitle B {
   color: #685a2d;
 }
+.cid-re5NdI69Hi {
+  background: #000000;
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+.cid-re5NdI69Hi .image-block {
+  margin: auto;
+}
+.cid-re5NdI69Hi figcaption {
+  position: relative;
+}
+.cid-re5NdI69Hi figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-re5NdI69Hi .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rcLu6qpDx9 {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -3268,6 +3289,71 @@ body {
 .cid-re5pxtTdUu .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-re5FtVNeEB {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #000000;
+}
+.cid-re5FtVNeEB .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-re5FtVNeEB .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-re5FtVNeEB .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-re5FtVNeEB .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-re5FtVNeEB .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-re5FtVNeEB .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-re5FtVNeEB .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-re5FtVNeEB .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-re5FtVNeEB .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-re5FtVNeEB .mbr-gallery-item > div > span {
+  color: #e4d295;
 }
 .cid-rdCyQL26Fp {
   padding-top: 15px;
