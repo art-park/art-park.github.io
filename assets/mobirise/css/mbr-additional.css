@@ -3229,6 +3229,46 @@ body {
 .cid-re56xJRoXc .mbr-gallery-item > div > span {
   color: #e4d295;
 }
+.cid-re5pxtTdUu {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-re5pxtTdUu .card-box {
+  padding: 0 2rem;
+}
+.cid-re5pxtTdUu .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-re5pxtTdUu .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-re5pxtTdUu h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-re5pxtTdUu p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-re5pxtTdUu .mbr-text {
+  color: #767676;
+}
+.cid-re5pxtTdUu .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #000000;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-re5pxtTdUu .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
 .cid-rdCyQL26Fp {
   padding-top: 15px;
   padding-bottom: 15px;
