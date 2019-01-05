@@ -3858,6 +3858,39 @@ body {
 .cid-re0aDRlwQ4 .mbr-section-btn {
   color: #ffffff;
 }
+.cid-reiEMF21hU {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/lens-1223583-1920-1-1920x638.jpg");
+}
+.cid-reiEMF21hU .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-reiEMF21hU .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-reiEMF21hU .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-reiEMF21hU .mbr-text {
+    text-align: center;
+  }
+}
+.cid-reiEMF21hU H1 {
+  color: #b1a374;
+}
+.cid-reiEMF21hU .mbr-text,
+.cid-reiEMF21hU .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-rcS4qQs3WQ {
   padding-top: 15px;
   padding-bottom: 15px;
