@@ -2826,32 +2826,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "www.swiatobrazu.pl akt",
-                "active": false
-              },
-              {
-                "tags": "Animowane",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/low-key-600x402.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/low-key-600x402-536x402.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "www.swiatobrazu.pl akt",
-                "active": false
-              },
-              {
-                "tags": "Animowane",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/low-key-600x402.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/low-key-600x402-536x402.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "www.swiatobrazu.pl akt",
                 "active": true
               }
             ]
