@@ -1784,20 +1784,24 @@ body {
 .cid-rckvCOlbXY .mbr-text,
 .cid-rckvCOlbXY .mbr-section-btn {
   text-align: center;
-  color: #e4d295;
+  color: #ffffff;
 }
 .cid-rckvCOlbXY H1 {
   text-align: center;
   color: #e4d295;
 }
 .cid-rckvCOlbXY SPAN {
-  color: #e4d295;
+  color: #ffffff;
 }
 .cid-rckvCOlbXY H3 {
   color: #ffffff;
 }
 .cid-rckvCOlbXY B {
-  color: #dace0e;
+  color: #ffffff;
+}
+.cid-rckvCOlbXY .mbr-text,
+.cid-rckvCOlbXY .mbr-section-btn B {
+  color: #ffffff;
 }
 .cid-ruAMbZAMxk {
   padding-top: 15px;
