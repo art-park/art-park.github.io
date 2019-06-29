@@ -5584,11 +5584,17 @@ body {
   }
 }
 .cid-ruMxNtHddG H1 {
-  color: #073b4c;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-ruMxNtHddG .mbr-text,
 .cid-ruMxNtHddG .mbr-section-btn {
   color: #ffffff;
+  text-align: center;
+}
+.cid-ruMxNtHddG H3 {
+  color: #ff1300;
+  text-align: center;
 }
 .cid-ruMAToTHRX {
   padding-top: 30px;
