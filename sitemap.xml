@@ -15,9 +15,6 @@
 		<loc>http://art-park.com.pl/malarstwo  art.html</loc>
 	</url>
 	<url>
-		<loc>http://art-park.com.pl/historia.fotografii.html</loc>
-	</url>
-	<url>
 		<loc>http://art-park.com.pl/muzea.wystawy.html</loc>
 	</url>
 	<url>
@@ -25,5 +22,8 @@
 	</url>
 	<url>
 		<loc>http://art-park.com.pl/historia.html</loc>
+	</url>
+	<url>
+		<loc>http://art-park.com.pl/.fotografii.html</loc>
 	</url>
 </urlset>
