@@ -4874,6 +4874,47 @@ body {
 .cid-ruHQsHJ7rm H3 {
   color: #ffffff;
 }
+.cid-ruS7DPdEwU {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #000000;
+}
+.cid-ruS7DPdEwU h2 {
+  text-align: center;
+}
+.cid-ruS7DPdEwU h4 {
+  text-align: center;
+  z-index: 1;
+  color: #ffffff;
+  position: relative;
+}
+.cid-ruS7DPdEwU p {
+  z-index: 1;
+  margin-bottom: 0;
+  color: #ffffff;
+  position: relative;
+}
+.cid-ruS7DPdEwU .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-ruS7DPdEwU .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-ruS7DPdEwU .card-img img {
+  z-index: -1;
+  min-height: 100%;
+  min-width: 100%;
+  width: auto;
+  max-width: 600px;
+}
 .cid-ruRHVKO0iK {
   padding-top: 30px;
   padding-bottom: 0px;
