@@ -18,12 +18,12 @@
 		<loc>http://art-park.com.pl/muzea.wystawy.html</loc>
 	</url>
 	<url>
-		<loc>http://art-park.com.pl/o malarstwie.html</loc>
-	</url>
-	<url>
 		<loc>http://art-park.com.pl/historia.html</loc>
 	</url>
 	<url>
 		<loc>http://art-park.com.pl/.fotografii.html</loc>
+	</url>
+	<url>
+		<loc>http://art-park.com.pl/o malowaniu obrazów.html</loc>
 	</url>
 </urlset>
